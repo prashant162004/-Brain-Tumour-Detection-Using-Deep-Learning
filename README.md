@@ -69,7 +69,7 @@ Brain-Tumour-Detection/
 
 ### Step 1: Clone the Repository
 
-git clone https://github.com/your-username/Brain-Tumour-Detection-Using-Deep-Learning.git
+git clone https://github.com/prashant162004/Brain-Tumour-Detection-Using-Deep-Learning.git
 cd Brain-Tumour-Detection-Using-Deep-Learning
 
 Step 2: Install Dependencies
